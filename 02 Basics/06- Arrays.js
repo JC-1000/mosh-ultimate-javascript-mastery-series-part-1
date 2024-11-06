@@ -2,7 +2,7 @@
 
 /*
 When we are dealing with a list of objects we use an array.
-Like for example a list of products in a shopping cart in ana application.
+Like for example a list of products in a shopping cart in an application.
 To create an array we use [] brackets.
 let myArray = [] 
 This is whats is called an Array literal.
