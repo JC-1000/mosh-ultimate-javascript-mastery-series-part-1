@@ -8,5 +8,5 @@ let interestRateVariable = 0.3;
 interestRateVariable = 0.5;
 
 const interestRateConstant = 0.5;
-// interestRateConstant = 0.3; if we try to change the value of a constant this will raise na error
+// interestRateConstant = 0.3; if we try to change the value of a constant this will raise an error
 console.log(interestRateConstant);
